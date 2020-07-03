@@ -1,0 +1,7 @@
+#ifndef SEARCH_ALGOS_H
+#define SEARCH_ALGOS_H
+
+void free_skiplist(skiplist_t *list);
+
+
+#endif
